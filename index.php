@@ -1,1 +1,1 @@
-<?php header('Location:http://cryptoswift.giize.com/CryptoSwift/public/index.php'); ?>
+<?php header('Location:http://cryptoswift.giize.com/CryptoSwift/public/'); ?>
